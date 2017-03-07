@@ -1,8 +1,3 @@
----
-title: My Notes About GH Pages
-theme: jekyll-theme-dinky
----
-
 ## Nancy Sweeney's GitHub Pages Testing Site
 
 You can use the [editor on GitHub](https://github.com/sweeneyskirt/sweeneyskirt.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
