@@ -1,6 +1,6 @@
 ---
 title: My Notes About GH Pages
-theme: Jekyll-theme-dingy
+theme: jekyll-theme-dinky
 ---
 
 ## Nancy Sweeney's GitHub Pages Testing Site
