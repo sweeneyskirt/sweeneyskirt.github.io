@@ -1,6 +1,6 @@
 ---
 layout: default
-title: My notes about using GitHub Pages
+title: "My notes about using GitHub Pages"
 ---
 ## Nancy Sweeney's GitHub Pages Testing Site
 
